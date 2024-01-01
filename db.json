@@ -1,0 +1,28 @@
+{
+  "bookings": [
+    {
+      "id": 1001,
+      "serviceName": "Car Wash",
+      "emailId": "Sarah@gmail.com",
+      "bookedOn": "2022-10-22"
+    },
+    {
+      "id": 1002,
+      "serviceName": "Wheel Alignment",
+      "emailId": "Lakshmi@infy.com",
+      "bookedOn": "2022-12-30"
+    },
+    {
+      "id": 1003,
+      "serviceName": "Denting and Painting",
+      "emailId": "mama@gmail.com",
+      "bookedOn": "2023-10-22"
+    },
+    {
+      "serviceName": "wheelAlignment",
+      "emailId": "d@g.v",
+      "bookedOn": "2023-12-15",
+      "id": 1004
+    }
+  ]
+}
